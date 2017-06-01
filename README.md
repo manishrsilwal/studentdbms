@@ -3,7 +3,7 @@
 This is 'Student Information System' designed as a part of Database Mini Project.
 
 Designers:
-	Pratit Raj Giri
+	Pratit Raj Giri and
 	Manish Raj Silwal
 
 Following are the required username and passwords:
