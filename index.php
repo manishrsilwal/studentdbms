@@ -54,7 +54,7 @@
     </div>
 </div>
 </center>
-<h5 style="text-align: center; margin-top: 150px;">&copy Copyright 2017 | Pratit Raj Giri and Manish Raj Silwal</h5>
+<h5 style="text-align: center; margin-top: 150px;">&copy Copyright 2017 | Manish Raj Silwal</h5>
 </div>
 
 </body>
